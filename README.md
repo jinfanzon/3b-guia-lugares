@@ -71,6 +71,14 @@ El televisor la descarga cada 6 horas desde `lugares.json`.
 - Mina Clavero: Roberto Fiadone · CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mina_Clavero,_Vila_y_San_Mart%C3%ADn.jpg
 - Mina Clavero: Roberto Fiadone · CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:R%C3%ADo_Mina_Clavero_desde_puente_colgante_2022.jpg
 
+### Fotos de los locales
+
+- San Honorato: Foto del local, publicada con su permiso (https://sanhonorato.com.ar/)
+- San Honorato: Foto del local, publicada con su permiso (https://sanhonorato.com.ar/)
+- San Honorato: Foto del local, publicada con su permiso (https://sanhonorato.com.ar/)
+- Viejo Lobo: Foto del local, publicada con su permiso (https://viejolobo.ar/)
+- Viejo Lobo: Foto del local, publicada con su permiso (https://viejolobo.ar/)
+
 ## Fuentes
 
 - **Manzana Jesuítica**: https://www.unl.edu.ar/noticias/news/view/25_años_de_la_manzana_jesuítica_como_patrimonio_de_la_humanidad, https://www.museohistorico.unc.edu.ar/files/Autogu%C3%ADa-Espa%C3%B1ol.pdf, https://www.argentina.travel/actividades/legado-jesuita-en-cordoba, https://nominatim.openstreetmap.org/search?q=Iglesia+de+la+Compa%C3%B1%C3%ADa+de+Jes%C3%BAs+C%C3%B3rdoba&format=json

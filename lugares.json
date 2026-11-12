@@ -628,7 +628,16 @@
           "how": ""
         }
       },
-      "photos": [],
+      "photos": [
+        {
+          "url": "https://raw.githubusercontent.com/jinfanzon/3b-guia-lugares/main/fotos/viejo-lobo-1.jpg",
+          "credit": "Foto: Viejo Lobo"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jinfanzon/3b-guia-lugares/main/fotos/viejo-lobo-2.jpg",
+          "credit": "Foto: Viejo Lobo"
+        }
+      ],
       "oculto": false
     },
     {
@@ -706,7 +715,20 @@
           "how": ""
         }
       },
-      "photos": [],
+      "photos": [
+        {
+          "url": "https://raw.githubusercontent.com/jinfanzon/3b-guia-lugares/main/fotos/san-honorato-1.jpg",
+          "credit": "Foto: San Honorato"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jinfanzon/3b-guia-lugares/main/fotos/san-honorato-2.jpg",
+          "credit": "Foto: San Honorato"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jinfanzon/3b-guia-lugares/main/fotos/san-honorato-3.jpg",
+          "credit": "Foto: San Honorato"
+        }
+      ],
       "oculto": false
     },
     {
