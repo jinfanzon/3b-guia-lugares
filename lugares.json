@@ -1,0 +1,1233 @@
+{
+  "version": 1,
+  "updated": "2026-11-12",
+  "categories": [
+    {
+      "id": "paseos",
+      "label": {
+        "es": "Paseos y museos",
+        "pt": "Passeios e museus",
+        "en": "Sights & museums"
+      }
+    },
+    {
+      "id": "comer",
+      "label": {
+        "es": "Comer y beber",
+        "pt": "Comer e beber",
+        "en": "Food & drink"
+      }
+    },
+    {
+      "id": "compras",
+      "label": {
+        "es": "Compras",
+        "pt": "Compras",
+        "en": "Shopping"
+      }
+    },
+    {
+      "id": "servicios",
+      "label": {
+        "es": "Servicios",
+        "pt": "Serviços",
+        "en": "Services"
+      }
+    },
+    {
+      "id": "sierras",
+      "label": {
+        "es": "Sierras",
+        "pt": "Serras",
+        "en": "The Sierras"
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "manzana-jesuitica",
+      "cat": "paseos",
+      "name": "Manzana Jesuítica",
+      "lat": -31.41789,
+      "lon": -64.18677,
+      "text": {
+        "es": {
+          "short": "Patrimonio de la Humanidad: iglesia, museo y universidad",
+          "long": "La Manzana Jesuítica reúne la iglesia de la Compañía y el Antiguo Rectorado de la UNC, sede del Museo Histórico, y es Patrimonio de la Humanidad de la UNESCO desde 2000. Es el corazón histórico de Córdoba. Tip: sumate a una visita guiada, que arranca en el patio del museo.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Patrimônio Mundial: igreja, museu e universidade",
+          "long": "A Manzana Jesuítica reúne a igreja da Companhia e o Antigo Reitorado da UNC, sede do Museu Histórico, e é Patrimônio Mundial da UNESCO desde 2000. É o coração histórico de Córdoba. Dica: faça uma visita guiada, que começa no pátio do museu.",
+          "how": ""
+        },
+        "en": {
+          "short": "World Heritage: church, museum and university",
+          "long": "The Jesuit Block brings together the Compañía church and the UNC's Old Rectorate, home of the Historical Museum, and has been a UNESCO World Heritage Site since 2000. It is Córdoba's historic heart. Tip: join a guided tour, which starts in the museum courtyard.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Manzana_Jesu%C3%ADtica-1.JPG/1280px-Manzana_Jesu%C3%ADtica-1.JPG",
+          "credit": "Lcsrns · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Manzana_Jesu%C3%ADtica-3.JPG/1280px-Manzana_Jesu%C3%ADtica-3.JPG",
+          "credit": "Lcsrns · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Manzana_Jesuita%2C_C%C3%B3rdoba%2C_Argentina_-_panoramio.jpg/1280px-Manzana_Jesuita%2C_C%C3%B3rdoba%2C_Argentina_-_panoramio.jpg",
+          "credit": "Nelson Pérez · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "catedral-de-cordoba",
+      "cat": "paseos",
+      "name": "Catedral de Nuestra Señora de la Asunción",
+      "lat": -31.41667,
+      "lon": -64.18472,
+      "text": {
+        "es": {
+          "short": "La iglesia matriz, frente a la Plaza San Martín",
+          "long": "La catedral barroca de Córdoba se empezó en 1582 y sus torres se terminaron en 1787. Es monumento histórico nacional desde 1941 y guarda frescos de Emilio Caraffa y el altar de plata. Tip: combinala con el Cabildo, que queda pegado.",
+          "how": ""
+        },
+        "pt": {
+          "short": "A igreja matriz, diante da Plaza San Martín",
+          "long": "A catedral barroca de Córdoba foi iniciada em 1582 e suas torres ficaram prontas em 1787. É monumento histórico nacional desde 1941 e guarda afrescos de Emilio Caraffa e o altar de prata. Dica: combine com o Cabildo, que fica ao lado.",
+          "how": ""
+        },
+        "en": {
+          "short": "Mother church on Plaza San Martín",
+          "long": "Córdoba's Baroque cathedral was begun in 1582 and its towers finished in 1787. A national historic monument since 1941, it holds frescoes by Emilio Caraffa and a silver altar. Tip: pair it with the Cabildo, right next door.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catedral_de_C%C3%B3rdoba%2C_Argentina.jpg/1280px-Catedral_de_C%C3%B3rdoba%2C_Argentina.jpg",
+          "credit": "Pablo D. Flores · CC BY-SA 2.5"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Catedral_de_Cordoba_%28Argentina%29.jpg/1280px-Catedral_de_Cordoba_%28Argentina%29.jpg",
+          "credit": "Ezarate · Public domain"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Catedral_de_C%C3%B3rdoba_%28Argentina%29_2010-03-17.jpg/1280px-Catedral_de_C%C3%B3rdoba_%28Argentina%29_2010-03-17.jpg",
+          "credit": "Alakasam. · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "cabildo-de-cordoba",
+      "cat": "paseos",
+      "name": "Cabildo de Córdoba",
+      "lat": -31.416389,
+      "lon": -64.184333,
+      "text": {
+        "es": {
+          "short": "Cabildo colonial con museo, junto a la Catedral",
+          "long": "Uno de los últimos cabildos coloniales que quedan en Argentina, frente a la Plaza San Martín. Hoy alberga el Museo de la Ciudad, muestras temporales y espectáculos, y funciona como centro de información turística. Tip: mirá sus dos patios interiores.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Cabildo colonial com museu, ao lado da Catedral",
+          "long": "Um dos últimos cabildos coloniais que restam na Argentina, de frente para a Plaza San Martín. Hoje abriga o Museu da Cidade, mostras temporárias e espetáculos, e funciona como centro de informação turística. Dica: olhe seus dois pátios internos.",
+          "how": ""
+        },
+        "en": {
+          "short": "Colonial town hall with a museum, beside the Cathedral",
+          "long": "One of the last colonial town halls left in Argentina, facing Plaza San Martín. Today it houses the City Museum, temporary exhibitions and performances, and works as a tourist information centre. Tip: look at its two inner courtyards.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cabildo_de_la_Ciudad_de_C%C3%B3rdoba_11.JPG/1280px-Cabildo_de_la_Ciudad_de_C%C3%B3rdoba_11.JPG",
+          "credit": "Gonzaloviramonte · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cabildo_de_C%C3%B3rdoba_a_la_tarde.JPG/1280px-Cabildo_de_C%C3%B3rdoba_a_la_tarde.JPG",
+          "credit": "Cambalachero · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/C%C3%B3rdoba_Cabildo.JPG/1280px-C%C3%B3rdoba_Cabildo.JPG",
+          "credit": "Lcsrns · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "paseo-del-buen-pastor",
+      "cat": "paseos",
+      "name": "Paseo del Buen Pastor",
+      "lat": -31.424083,
+      "lon": -64.18642,
+      "text": {
+        "es": {
+          "short": "Ex convento con capilla, arte y patios",
+          "long": "El Paseo del Buen Pastor es un antiguo conjunto religioso reconvertido en espacio cultural, en la avenida Hipólito Yrigoyen. Tiene una capilla, patios y una sala de exposiciones con entrada libre y gratuita. Tip: fijate la agenda, porque hay muestras y recitales durante el año.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Antigo convento com capela, arte e pátios",
+          "long": "O Paseo del Buen Pastor é um antigo conjunto religioso transformado em espaço cultural, na avenida Hipólito Yrigoyen. Tem capela, pátios e uma sala de exposições com entrada livre e gratuita. Dica: confira a agenda, pois há mostras e shows ao longo do ano.",
+          "how": ""
+        },
+        "en": {
+          "short": "Former convent with a chapel, art and courtyards",
+          "long": "The Paseo del Buen Pastor is a former religious complex turned into a cultural space on Avenida Hipólito Yrigoyen. It has a chapel, courtyards and an exhibition room with free admission. Tip: check the programme, as there are shows and concerts throughout the year.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Paseo_del_Buen_Pastor%2C_Nueva_C%C3%B3rdoba.jpg/1280px-Paseo_del_Buen_Pastor%2C_Nueva_C%C3%B3rdoba.jpg",
+          "credit": "Alelazca · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paseo_del_Buen_Pastor_vista_de_la_fuente_en_dia_nublado.jpg/1280px-Paseo_del_Buen_Pastor_vista_de_la_fuente_en_dia_nublado.jpg",
+          "credit": "Laura Ibarra Molas · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Paseo_del_Buen_Pastor_C%C3%B3rdoba_2008-07-17.jpg/1280px-Paseo_del_Buen_Pastor_C%C3%B3rdoba_2008-07-17.jpg",
+          "credit": "blmurch from Buenos Aires · CC BY 2.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "museo-evita-palacio-ferreyra",
+      "cat": "paseos",
+      "name": "Museo Superior de Bellas Artes Evita (Palacio Ferreyra)",
+      "lat": -31.427028,
+      "lon": -64.184972,
+      "text": {
+        "es": {
+          "short": "Arte cordobés en un palacio francés de 1919",
+          "long": "El Palacio Ferreyra, inaugurado como residencia en 1919 y obra del arquitecto Ernest-Paul Sanson, es museo de arte desde 2007. Muestra la colección de la provincia, con artistas cordobeses desde el siglo XIX, y exposiciones temporales. Tip: queda a pasos del Museo Caraffa.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Arte cordobesa em um palácio francês de 1919",
+          "long": "O Palácio Ferreyra, inaugurado como residência em 1919 e obra do arquiteto Ernest-Paul Sanson, é museu de arte desde 2007. Mostra a coleção da província, com artistas cordobeses desde o século XIX, e exposições temporárias. Dica: fica a poucos passos do Museu Caraffa.",
+          "how": ""
+        },
+        "en": {
+          "short": "Córdoba art in a 1919 French-style palace",
+          "long": "The Palacio Ferreyra, opened as a private home in 1919 and designed by Ernest-Paul Sanson, has been an art museum since 2007. It shows the province's collection, with Córdoba artists from the 19th century, plus temporary exhibitions. Tip: it is a short walk from the Caraffa museum.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ex_Palacio_Ferreyra%2C_hoy_Museo_de_Arte_%22Evita%22.jpg/1280px-Ex_Palacio_Ferreyra%2C_hoy_Museo_de_Arte_%22Evita%22.jpg",
+          "credit": "Alelazca · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Palacio_Ferreyra-2.JPG/1280px-Palacio_Ferreyra-2.JPG",
+          "credit": "Lcsrns · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "museo-caraffa",
+      "cat": "paseos",
+      "name": "Museo Provincial de Bellas Artes Emilio Caraffa",
+      "lat": -31.428333,
+      "lon": -64.183889,
+      "text": {
+        "es": {
+          "short": "Arte contemporáneo frente al Parque Sarmiento",
+          "long": "El Museo Caraffa, junto al Parque Sarmiento, presenta arte contemporáneo en ciclos de exposiciones; en 2026 inauguró su segundo ciclo con cuatro muestras. Lleva el nombre del pintor Emilio Caraffa. Tip: combinalo con el Museo Evita y un paseo por el parque.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Arte contemporânea ao lado do Parque Sarmiento",
+          "long": "O Museu Caraffa, junto ao Parque Sarmiento, apresenta arte contemporânea em ciclos de exposições; em 2026 inaugurou seu segundo ciclo com quatro mostras. Leva o nome do pintor Emilio Caraffa. Dica: combine com o Museu Evita e um passeio pelo parque.",
+          "how": ""
+        },
+        "en": {
+          "short": "Contemporary art beside Parque Sarmiento",
+          "long": "The Caraffa Museum, next to Parque Sarmiento, shows contemporary art in exhibition cycles; in 2026 it opened its second cycle with four shows. It is named after the painter Emilio Caraffa. Tip: combine it with the Evita Museum and a stroll in the park.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cara_principal_del_Museo_Provincial_de_Bellas_Artes_Emilio_Caraffa.JPG/1280px-Cara_principal_del_Museo_Provincial_de_Bellas_Artes_Emilio_Caraffa.JPG",
+          "credit": "Lassabias · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vista_nocturna_del_Museo..jpg/1280px-Vista_nocturna_del_Museo..jpg",
+          "credit": "RoMartinEscudero · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Entrada_del_Museo_Provincial_de_Bellas_Artes_Emilio_Caraffa.JPG/1280px-Entrada_del_Museo_Provincial_de_Bellas_Artes_Emilio_Caraffa.JPG",
+          "credit": "Lassabias · CC BY-SA 4.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "parque-sarmiento",
+      "cat": "paseos",
+      "name": "Parque Sarmiento",
+      "lat": -31.430278,
+      "lon": -64.175556,
+      "text": {
+        "es": {
+          "short": "Parque de Thays con lago, a pasos de dos museos",
+          "long": "Diseñado por Carlos Thays e inaugurado en 1911, es el gran pulmón verde de Córdoba y monumento histórico nacional desde 2017. Tiene un lago con dos islas y botes a pedal y remo, el Paseo del Bicentenario y el Faro del Bicentenario. Tip: ideal para caminar entre museos.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Parque de Thays com lago, perto de dois museus",
+          "long": "Projetado por Carlos Thays e inaugurado em 1911, é o grande pulmão verde de Córdoba e monumento histórico nacional desde 2017. Tem um lago com duas ilhas e barcos a pedal e remo, o Paseo del Bicentenario e o Faro del Bicentenario. Dica: ótimo para caminhar entre museus.",
+          "how": ""
+        },
+        "en": {
+          "short": "Thays-designed park with a lake, near two museums",
+          "long": "Designed by Carlos Thays and opened in 1911, it is Córdoba's big green lung and a national historic monument since 2017. It has a lake with two islands and pedal and rowing boats, the Paseo del Bicentenario and the Faro del Bicentenario. Tip: great for a walk between museums.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Parque_Sarmiento_%28Lago%29.jpg/1280px-Parque_Sarmiento_%28Lago%29.jpg",
+          "credit": "Guadalupe S Ticse · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lago_del_Parque_Sarmiento_C%C3%B3rdoba_2010-05-24.jpg",
+          "credit": "Daniel J. Farré · CC BY-SA 2.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Entrada_Parque_Sarmiento_C%C3%B3rdoba_2009-11-27.jpg/1280px-Entrada_Parque_Sarmiento_C%C3%B3rdoba_2009-11-27.jpg",
+          "credit": "Christian  Córdova from Santiago, Chile · CC BY 2.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "museo-sobremonte",
+      "cat": "paseos",
+      "name": "Museo Histórico Provincial Marqués de Sobremonte",
+      "lat": -31.4168,
+      "lon": -64.1811,
+      "text": {
+        "es": {
+          "short": "La casa colonial más antigua de Córdoba",
+          "long": "Casona colonial del siglo XVIII que perteneció al Marqués de Sobremonte y hoy es museo provincial, declarado monumento histórico nacional en 1941. Se la considera la casa más antigua que sigue en pie en Córdoba. Tip: los museos provinciales tienen entrada libre los miércoles.",
+          "how": ""
+        },
+        "pt": {
+          "short": "A casa colonial mais antiga de Córdoba",
+          "long": "Casarão colonial do século XVIII que pertenceu ao Marquês de Sobremonte e hoje é museu provincial, declarado monumento histórico nacional em 1941. É considerada a casa mais antiga ainda de pé em Córdoba. Dica: os museus provinciais têm entrada gratuita às quartas.",
+          "how": ""
+        },
+        "en": {
+          "short": "Córdoba's oldest surviving colonial house",
+          "long": "An 18th-century colonial mansion that belonged to the Marquis of Sobremonte, now a provincial museum and a national historic monument since 1941. It is regarded as the oldest house still standing in Córdoba. Tip: provincial museums have free admission on Wednesdays.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Casa_del_Virrey_Sobremonte..JPG/1280px-Casa_del_Virrey_Sobremonte..JPG",
+          "credit": "Javitolez · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Casa_del_Marqu%C3%A9s_de_Sobremonte-%28esquina%29-_por_Viviana_S._Bareiro.JPG/1280px-Casa_del_Marqu%C3%A9s_de_Sobremonte-%28esquina%29-_por_Viviana_S._Bareiro.JPG",
+          "credit": "Masinternet (viviana S. Bareiro) · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "mercado-norte",
+      "cat": "compras",
+      "name": "Mercado Norte",
+      "lat": -31.409572,
+      "lon": -64.180537,
+      "text": {
+        "es": {
+          "short": "El mercado histórico de productos frescos",
+          "long": "El Mercado Norte abrió su edificio actual el 14 de abril de 1928 y sigue siendo el referente de productos frescos de la ciudad. Es buen lugar para probar y comprar fiambres, frutas y comidas, y también hay tours que lo combinan con la Casa de Sobremonte.",
+          "how": ""
+        },
+        "pt": {
+          "short": "O mercado histórico de produtos frescos",
+          "long": "O Mercado Norte abriu seu prédio atual em 14 de abril de 1928 e continua sendo a referência em produtos frescos da cidade. É um bom lugar para provar e comprar frios, frutas e comidas, e há passeios que o combinam com a Casa de Sobremonte.",
+          "how": ""
+        },
+        "en": {
+          "short": "The historic fresh-food market",
+          "long": "Mercado Norte opened its current building on 14 April 1928 and is still the city's go-to place for fresh produce. A good spot to taste and buy cold cuts, fruit and prepared food, and there are guided tours combining it with the Sobremonte house.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "paseo-de-las-artes",
+      "cat": "compras",
+      "name": "Feria Paseo de las Artes (Güemes)",
+      "lat": -31.423483,
+      "lon": -64.192496,
+      "text": {
+        "es": {
+          "short": "Feria de artesanías y arte en barrio Güemes",
+          "long": "El Paseo de las Artes, en un conjunto de 1889 junto a La Cañada, tiene una feria de artesanías abierta cada fin de semana desde 1981, con secciones de arte, libros, antigüedades y plantas. Alberga el Museo Iberoamericano de las Artesanías. Tip: confirmá días y horarios, que varían según la temporada.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Feira de artesanato e arte no bairro Güemes",
+          "long": "O Paseo de las Artes, em um conjunto de 1889 junto à Cañada, tem uma feira de artesanato aberta todo fim de semana desde 1981, com seções de arte, livros, antiguidades e plantas. Abriga o Museu Iberoamericano de Artesanias. Dica: confirme dias e horários, que variam conforme a temporada.",
+          "how": ""
+        },
+        "en": {
+          "short": "Crafts and art fair in Güemes",
+          "long": "The Paseo de las Artes, in an 1889 complex beside La Cañada, has a crafts fair open every weekend since 1981, with art, book, antique and plant sections. It also houses the Ibero-American Crafts Museum. Tip: check days and hours, as they vary by season.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Paseo_de_las_artes.jpg/1280px-Paseo_de_las_artes.jpg",
+          "credit": "Rodrigo Galindez from Córdoba, Argentina · CC BY 2.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "patio-olmos",
+      "cat": "compras",
+      "name": "Patio Olmos Shopping",
+      "lat": -31.419747,
+      "lon": -64.187784,
+      "text": {
+        "es": {
+          "short": "Shopping céntrico con marcas y entretenimiento",
+          "long": "Patio Olmos es un shopping en pleno centro, cerca de Nueva Córdoba, con más de 150 locales de indumentaria y marcas nacionales. Celebró sus 30 años y suma propuestas como Go Park, una sala de juegos de más de 1.000 m². Tip: queda a pasos del Teatro del Libertador.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Shopping central com marcas e entretenimento",
+          "long": "O Patio Olmos é um shopping no centro, perto de Nueva Córdoba, com mais de 150 lojas de moda e marcas nacionais. Comemorou 30 anos e tem atrações como o Go Park, uma sala de jogos com mais de 1.000 m². Dica: fica a poucos passos do Teatro del Libertador.",
+          "how": ""
+        },
+        "en": {
+          "short": "Downtown mall with brands and entertainment",
+          "long": "Patio Olmos is a downtown mall near Nueva Córdoba, with over 150 shops of clothing and national brands. It celebrated its 30th anniversary and offers attractions such as Go Park, a games room of more than 1,000 m². Tip: it is a short walk from the Teatro del Libertador.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Patio_Olmos.JPG/1280px-Patio_Olmos.JPG",
+          "credit": "DINOCBA · CC BY 3.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Patio_Olmos_2011-12-22.jpg",
+          "credit": "Jarod Burns · CC BY-SA 2.0"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Patio_Olmos_2014.JPG/1280px-Patio_Olmos_2014.JPG",
+          "credit": "Lcsrns · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "nuevocentro-shopping",
+      "cat": "compras",
+      "name": "Nuevocentro Shopping",
+      "lat": -31.412259,
+      "lon": -64.205552,
+      "text": {
+        "es": {
+          "short": "El mayor shopping, con marcas y cine",
+          "long": "Nuevocentro Shopping cerró 2025 con ocupación plena y más de 200 locales, y en 2026 sumó marcas como Decathlon, Calvin Klein y The North Face. Tiene cine Hoyts. Tip: es el lugar para compras de marcas internacionales y un plan de lluvia.",
+          "how": ""
+        },
+        "pt": {
+          "short": "O maior shopping, com marcas e cinema",
+          "long": "O Nuevocentro Shopping fechou 2025 com ocupação total e mais de 200 lojas, e em 2026 recebeu marcas como Decathlon, Calvin Klein e The North Face. Tem cinema Hoyts. Dica: é o lugar para compras de marcas internacionais e um programa para dia de chuva.",
+          "how": ""
+        },
+        "en": {
+          "short": "A large mall with brands and a cinema",
+          "long": "Nuevocentro Shopping closed 2025 fully let with over 200 shops, and in 2026 added brands such as Decathlon, Calvin Klein and The North Face. It has a Hoyts cinema. Tip: the place for international brands and a rainy-day plan.",
+          "how": ""
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Cordoba_Nuevocentro_Shopping_Interior.JPG",
+          "credit": "Jlazarte · Public domain"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "supermercado-la-anonima-general-paz",
+      "cat": "servicios",
+      "name": "La Anónima (barrio General Paz, calle Libertad)",
+      "lat": -31.408736,
+      "lon": -64.171156,
+      "text": {
+        "es": {
+          "short": "Supermercado más cercano, en calle Libertad",
+          "long": "La Anónima reabrió en junio de 2026 la sucursal de General Pueyrredón, en calle Libertad, que antes era un súper Libertad. Supermercado de cadena con todo lo básico.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Supermercado mais próximo, na rua Libertad",
+          "long": "A La Anónima reabriu em junho de 2026 a filial de General Pueyrredón, na rua Libertad, que antes era um supermercado Libertad. Supermercado de rede com tudo o básico.",
+          "how": ""
+        },
+        "en": {
+          "short": "Nearest supermarket, on Calle Libertad",
+          "long": "La Anónima reopened its General Pueyrredón store on Calle Libertad in June 2026; it used to be a Libertad supermarket. A chain supermarket with all the basics.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "farmacia-lider-oncativo",
+      "cat": "servicios",
+      "name": "Farmacias Líder, sucursal Oncativo",
+      "lat": -31.409423,
+      "lon": -64.166752,
+      "text": {
+        "es": {
+          "short": "Farmacia más cercana, en calle Oncativo",
+          "long": "Sucursal de Farmacias Líder en Oncativo 1366, barrio General Paz, la farmacia de cadena más cercana. Para una farmacia de turno o abierta de noche, consultá la web del Colegio de Farmacéuticos.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Farmácia mais próxima, na rua Oncativo",
+          "long": "Filial das Farmacias Líder em Oncativo 1366, bairro General Paz, a farmácia de rede mais próxima. Para uma farmácia de plantão ou aberta à noite, consulte o site do Colégio de Farmacêuticos.",
+          "how": ""
+        },
+        "en": {
+          "short": "Nearest pharmacy, on Calle Oncativo",
+          "long": "Farmacias Líder branch at Oncativo 1366, barrio General Paz, the closest chain pharmacy. For an on-duty or late-night pharmacy, check the Colegio de Farmacéuticos website.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "cajero-banco-de-cordoba-24-de-septiembre",
+      "cat": "servicios",
+      "name": "Banco de Córdoba (Bancor), sucursal General Paz, con cajero",
+      "lat": -31.413584,
+      "lon": -64.165682,
+      "text": {
+        "es": {
+          "short": "Banco con cajero automático en 24 de Septiembre",
+          "long": "Sucursal del Banco de Córdoba sobre la avenida 24 de Septiembre, con cajero automático, la entidad más cercana a la zona. Llevá tarjeta internacional habilitada y confirmá que el cajero tenga efectivo antes de ir.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Banco com caixa eletrônico na avenida 24 de Septiembre",
+          "long": "Agência do Banco de Córdoba na avenida 24 de Septiembre, com caixa eletrônico, o banco mais próximo da região. Leve cartão internacional habilitado e confirme se o caixa tem dinheiro antes de ir.",
+          "how": ""
+        },
+        "en": {
+          "short": "Bank with ATM on Avenida 24 de Septiembre",
+          "long": "Banco de Córdoba branch on Avenida 24 de Septiembre, with an ATM, the closest bank to the area. Bring an international card that is enabled, and make sure the ATM has cash before you go.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "lavanderia-gingo",
+      "cat": "servicios",
+      "name": "GinGo Lavandería Self Service",
+      "lat": -31.419097,
+      "lon": -64.186277,
+      "text": {
+        "es": {
+          "short": "Lavandería self service cerca del Patio Olmos",
+          "long": "GinGo es una lavandería self service en Duarte Quirós 40, con lavado, secado y mesa de doblado, y jabón y suavizante incluidos. Solo acepta pagos digitales (QR, NFC o tarjeta), no efectivo.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Lavanderia self service perto do Patio Olmos",
+          "long": "A GinGo é uma lavanderia self service na Duarte Quirós 40, com lavagem, secagem e mesa de dobrar, e sabão e amaciante incluídos. Aceita só pagamentos digitais (QR, NFC ou cartão), não dinheiro.",
+          "how": ""
+        },
+        "en": {
+          "short": "Self-service laundry near Patio Olmos",
+          "long": "GinGo is a self-service laundry at Duarte Quirós 40, with washing, drying and a folding table, soap and softener included. It accepts digital payments only (QR, NFC or card), not cash.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "hospital-municipal-de-urgencias",
+      "cat": "servicios",
+      "name": "Hospital Municipal de Urgencias",
+      "lat": -31.412893,
+      "lon": -64.175924,
+      "text": {
+        "es": {
+          "short": "Hospital público de urgencias con guardia 24 h",
+          "long": "El Hospital Municipal de Urgencias, en Catamarca 441, es el centro de mayor complejidad del municipio y su guardia de urgencias y emergencias atiende las 24 horas. Para emergencias médicas en Córdoba también podés llamar al 107.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Hospital público de urgências com plantão 24 h",
+          "long": "O Hospital Municipal de Urgencias, na Catamarca 441, é o centro de maior complexidade do município e seu pronto-socorro funciona 24 horas. Para emergências médicas em Córdoba você também pode ligar para o 107.",
+          "how": ""
+        },
+        "en": {
+          "short": "Public emergency hospital with a 24-hour ER",
+          "long": "The Hospital Municipal de Urgencias, at Catamarca 441, is the city's highest-complexity centre and its emergency room runs 24 hours. For medical emergencies in Córdoba you can also call 107.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "viejo-lobo",
+      "cat": "comer",
+      "name": "Viejo Lobo",
+      "lat": -31.413963,
+      "lon": -64.167124,
+      "text": {
+        "es": {
+          "short": "Parrilla y restaurante tradicional de General Paz",
+          "long": "Clásico del barrio, listado entre los restaurantes y parrillas recomendados de General Paz. Es el lugar para una parrillada cordobesa tranquila: probá las carnes a la parrilla y pedí algo de la carta de bodegón. Conviene reservar para la noche de fin de semana.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Parrilla e restaurante tradicional em General Paz",
+          "long": "Clássico do bairro, listado entre os restaurantes e parrillas recomendados de General Paz. É o lugar para uma parrillada cordobesa tranquila: experimente as carnes na brasa e peça algo do cardápio de bodegón. Vale reservar para a noite de fim de semana.",
+          "how": ""
+        },
+        "en": {
+          "short": "Traditional grill restaurant in General Paz",
+          "long": "A neighbourhood classic, listed among the recommended restaurants and grills of General Paz. It is the spot for a relaxed Córdoba-style barbecue: try the grilled meats and ask for something from the traditional menu. Booking is wise for weekend evenings.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "backerhaus",
+      "cat": "comer",
+      "name": "Bäckerhaus",
+      "lat": -31.416884,
+      "lon": -64.170001,
+      "text": {
+        "es": {
+          "short": "Panadería, café y vermutería para el desayuno",
+          "long": "Panadería, cafetería y vermutería en pleno General Paz, recomendada en la guía local de septiembre 2026. Es buena opción para un desayuno o una merienda con pan y facturas recién hechas. Probá un café con algo de panadería y, a la tarde, un vermut.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Padaria, café e vermutaria para o café da manhã",
+          "long": "Padaria, cafeteria e vermutaria no coração de General Paz, recomendada no guia local de setembro de 2026. É boa opção para café da manhã ou lanche com pães e doces. Experimente um café com algo da padaria e, à tarde, um vermute.",
+          "how": ""
+        },
+        "en": {
+          "short": "Bakery, café and vermouth bar for breakfast",
+          "long": "Bakery, café and vermouth bar in the heart of General Paz, recommended in a local guide from September 2026. A good choice for breakfast or an afternoon snack with bread and pastries. Try a coffee with something from the bakery and, later in the day, a vermouth.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "santa-lucia-casa-de-te",
+      "cat": "comer",
+      "name": "Santa Lucía",
+      "lat": -31.411012,
+      "lon": -64.168941,
+      "text": {
+        "es": {
+          "short": "Casa de té y pastelería, con opciones sin gluten",
+          "long": "Casa de té y pastelería de General Paz, que figura en la guía local de 2026 y en el Polo Gastronómico municipal. Se destaca por la pastelería sin gluten, así que sirve si viajás con celíacos. Ideal para una merienda tranquila después de caminar el barrio.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Casa de chá e confeitaria, com opções sem glúten",
+          "long": "Casa de chá e confeitaria de General Paz, que aparece no guia local de 2026 e no Polo Gastronômico municipal. Destaca-se pela confeitaria sem glúten, útil se há celíacos no grupo. Ideal para um lanche tranquilo depois de caminhar pelo bairro.",
+          "how": ""
+        },
+        "en": {
+          "short": "Tea house and patisserie, gluten-free options",
+          "long": "Tea house and patisserie in General Paz, listed in a 2026 local guide and in the city's gastronomic hub. Known for its gluten-free pastry, handy if someone in your group is coeliac. A calm spot for an afternoon snack after walking the neighbourhood.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "san-honorato",
+      "cat": "comer",
+      "name": "San Honorato",
+      "lat": -31.41512,
+      "lon": -64.166552,
+      "text": {
+        "es": {
+          "short": "Cocina de autor, emblema gastronómico de General Paz",
+          "long": "Restaurante de cocina de autor con más de 20 años en el barrio, al que se atribuye haber impulsado la zona gastronómica de General Paz. Es una buena opción para una cena especial. Consultá la carta del día y reservá, sobre todo de jueves a sábado.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Cozinha autoral, ícone gastronômico de General Paz",
+          "long": "Restaurante de cozinha autoral com mais de 20 anos no bairro, a quem se atribui ter impulsionado a zona gastronômica de General Paz. Boa opção para um jantar especial. Consulte o cardápio do dia e reserve, principalmente de quinta a sábado.",
+          "how": ""
+        },
+        "en": {
+          "short": "Chef-driven cooking, a General Paz landmark",
+          "long": "A chef-driven restaurant with over 20 years in the neighbourhood, credited with helping launch General Paz's dining scene. A good pick for a special dinner. Check the daily menu and book ahead, especially from Thursday to Saturday.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "el-patio-de-los-naranjos",
+      "cat": "comer",
+      "name": "El Patio de los Naranjos",
+      "lat": -31.415343,
+      "lon": -64.166605,
+      "text": {
+        "es": {
+          "short": "Patio de tapas y cocina de autor para picar",
+          "long": "Patio de tapas y cocina de autor, vinculado a San Honorato, en el corazón de General Paz y recomendado en la guía local de 2026. Se presta para ir de picada con amigos y compartir varios platos chicos. Mejor con buen tiempo, para aprovechar el patio.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Pátio de tapas e cozinha autoral para beliscar",
+          "long": "Pátio de tapas e cozinha autoral, ligado ao San Honorato, no coração de General Paz e recomendado no guia local de 2026. Ideal para ir com amigos e dividir vários pratinhos. Melhor em dia de bom tempo, para aproveitar o pátio.",
+          "how": ""
+        },
+        "en": {
+          "short": "Courtyard tapas and chef-style small plates",
+          "long": "A tapas courtyard with chef-style cooking, linked to San Honorato, in the heart of General Paz and recommended in a 2026 local guide. Great for sharing several small plates with friends. Best on a nice day, to enjoy the patio.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "san-pietro",
+      "cat": "comer",
+      "name": "San Pietro",
+      "lat": -31.415035,
+      "lon": -64.164275,
+      "text": {
+        "es": {
+          "short": "Restaurante italiano de pastas, con cocina sin gluten",
+          "long": "Restaurante italiano de General Paz, especializado en pastas y con cocina sin gluten, según la guía local de septiembre 2026. Una buena alternativa para cenar si querés un plato de pasta casera. Es práctico para celíacos.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Restaurante italiano de massas, com cozinha sem glúten",
+          "long": "Restaurante italiano de General Paz, especializado em massas e com cozinha sem glúten, segundo o guia local de setembro de 2026. Boa alternativa para jantar se você quer um prato de massa caseira. Prático para celíacos.",
+          "how": ""
+        },
+        "en": {
+          "short": "Italian pasta restaurant with gluten-free cooking",
+          "long": "An Italian restaurant in General Paz specialising in pasta, with gluten-free cooking, per a local guide from September 2026. A good dinner alternative if you want a plate of homemade pasta. Practical for coeliacs.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "combi-lomitos",
+      "cat": "comer",
+      "name": "Combi",
+      "lat": -31.412472,
+      "lon": -64.170044,
+      "text": {
+        "es": {
+          "short": "Lomitos y hamburguesas: el sándwich cordobés",
+          "long": "Local de General Paz de hamburguesas, wraps, sándwiches, ensaladas y lomitos, recomendado en la guía local de septiembre 2026. El lomito es un sándwich típico de Córdoba: pedí el lomo clásico y probalo con una cerveza. Una comida informal y rápida.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Lomitos e hambúrgueres: o sanduíche cordobês",
+          "long": "Lanchonete de General Paz com hambúrgueres, wraps, sanduíches, saladas e lomitos, recomendada no guia local de setembro de 2026. O lomito é um sanduíche típico de Córdoba: peça o lomo clássico e prove com uma cerveja. Refeição informal e rápida.",
+          "how": ""
+        },
+        "en": {
+          "short": "Lomitos and burgers: Córdoba's sandwich",
+          "long": "A General Paz spot for burgers, wraps, sandwiches, salads and lomitos, recommended in a local guide from September 2026. The lomito is a Córdoba steak sandwich: order the classic lomo and have it with a beer. A casual, quick meal.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "casa-criolla-empanadas",
+      "cat": "comer",
+      "name": "Casa Criolla",
+      "lat": -31.41666,
+      "lon": -64.170081,
+      "text": {
+        "es": {
+          "short": "Cocina regional y empanadas",
+          "long": "Casa de cocina regional y empanadas en General Paz, recomendada en la guía local de septiembre 2026. Ideal para probar las empanadas, un clásico argentino, y platos criollos. Pedí una docena para compartir y llevar al departamento.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Cozinha regional e empanadas",
+          "long": "Casa de cozinha regional e empanadas em General Paz, recomendada no guia local de setembro de 2026. Ideal para provar as empanadas, um clássico argentino, e pratos crioulos. Peça uma dúzia para dividir ou levar para o apartamento.",
+          "how": ""
+        },
+        "en": {
+          "short": "Regional cooking and empanadas",
+          "long": "A place for regional cooking and empanadas in General Paz, recommended in a local guide from September 2026. Ideal for trying empanadas, an Argentine classic, and criollo dishes. Order a dozen to share or take back to your apartment.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "mercado-norte-comida",
+      "cat": "comer",
+      "name": "Mercado Norte",
+      "lat": -31.409572,
+      "lon": -64.180537,
+      "text": {
+        "es": {
+          "short": "Mercado tradicional con puestos de comida",
+          "long": "Mercado tradicional del centro, activo en mayo de 2026, donde se vende de todo para cocinar empanadas y humita. Una guía lo describe con puestos de empanadas, pizzerías, mariscos, parrilla y cafés. Ideal para un almuerzo informal entre vendedores.",
+          "how": ""
+        },
+        "pt": {
+          "short": "Mercado tradicional com bancas de comida",
+          "long": "Mercado tradicional do centro, ativo em maio de 2026, onde se vende de tudo para fazer empanadas e humita. Um guia o descreve com bancas de empanadas, pizzarias, frutos do mar, churrasco e cafés. Ideal para um almoço informal entre os vendedores.",
+          "how": ""
+        },
+        "en": {
+          "short": "Traditional market with food stalls",
+          "long": "A traditional downtown market, active in May 2026, selling everything to make empanadas and humita. A guide describes stalls for empanadas, pizzerias, seafood, grill and cafés. Great for an informal lunch among the vendors.",
+          "how": ""
+        }
+      },
+      "photos": [],
+      "oculto": false
+    },
+    {
+      "id": "villa-carlos-paz",
+      "cat": "sierras",
+      "name": "Villa Carlos Paz",
+      "lat": -31.4184,
+      "lon": -64.4937,
+      "text": {
+        "es": {
+          "short": "Lago San Roque, aerosilla y mucha vida de pueblo serrano",
+          "long": "La ciudad turística más popular de las sierras, a orillas del lago San Roque. Caminá la costanera, subí en la aerosilla para ver el lago desde arriba y sacate la foto con el famoso reloj cuco. Tip: andá temprano y dejá la tarde para la costanera.",
+          "how": "40 min en auto por la RN 20. Micros frecuentes desde la Terminal de Córdoba."
+        },
+        "pt": {
+          "short": "Lago San Roque, teleférico e muita vida de cidade serrana",
+          "long": "A cidade turística mais popular das serras, às margens do lago San Roque. Caminhe pela orla, suba de teleférico para ver o lago do alto e tire foto com o famoso relógio cuco. Dica: vá cedo e deixe a tarde para a orla.",
+          "how": "40 min de carro pela RN 20. Ônibus frequentes do Terminal de Córdoba."
+        },
+        "en": {
+          "short": "San Roque lake, chairlift and lively mountain-town vibe",
+          "long": "The most popular tourist town in the sierras, on the shore of Lake San Roque. Stroll the waterfront, ride the chairlift up for a view over the lake and snap a photo with the famous cuckoo clock. Tip: go early and keep the afternoon for the lakeside.",
+          "how": "40 min by car on RN 20. Frequent buses from Córdoba bus terminal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Villa_Carlos_Paz_desde_el_Cerro_de_la_Cruz.jpg",
+          "credit": "Isaias Abrutzky · Public domain"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Villa_Carlos_Paz%2C_Cordaba-_Argentina.JPG/1280px-Villa_Carlos_Paz%2C_Cordaba-_Argentina.JPG",
+          "credit": "Sofiaondacero · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Villa_Carlos_paz.jpg/1280px-Villa_Carlos_paz.jpg",
+          "credit": "Mikh Luna · CC BY-SA 4.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "villa-general-belgrano",
+      "cat": "sierras",
+      "name": "Villa General Belgrano",
+      "lat": -31.9765,
+      "lon": -64.559,
+      "text": {
+        "es": {
+          "short": "Pueblo de estilo alpino: cerveza, chocolate y sierras",
+          "long": "Pueblo de colonización alemana en el Valle de Calamuchita, famoso por su cerveza artesanal, sus chocolates y repostería y la Fiesta Nacional de la Cerveza en octubre. Ideal para caminar la calle principal, probar una cerveza o un strudel y recorrer el Parque Cerro de los Linderos. Tip: combinalo con La Cumbrecita.",
+          "how": "1 h 30 en auto por la RP 5. Micros desde la Terminal (unas 2 h)."
+        },
+        "pt": {
+          "short": "Vila de estilo alpino: cerveja, chocolate e serras",
+          "long": "Vila de colonização alemã no Vale de Calamuchita, famosa pela cerveja artesanal, chocolates e doces e pela Festa Nacional da Cerveja em outubro. Ótima para caminhar pela rua principal, provar uma cerveja ou um strudel e conhecer o Parque Cerro de los Linderos. Dica: combine com La Cumbrecita.",
+          "how": "1 h 30 de carro pela RP 5. Ônibus do Terminal (cerca de 2 h)."
+        },
+        "en": {
+          "short": "Alpine-style town: craft beer, chocolate and hills",
+          "long": "A German-settled town in the Calamuchita Valley, famous for craft beer, chocolate and pastries, and for its national beer festival in October. Great for walking the main street, trying a beer or a strudel and visiting Cerro de los Linderos park. Tip: combine it with La Cumbrecita.",
+          "how": "1 h 30 by car on RP 5. Buses from the terminal (about 2 h)."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Villa_General_Belgrano_park.jpg/1280px-Villa_General_Belgrano_park.jpg",
+          "credit": "Calella79 · CC0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Villa_General_Belgrano-2.JPG/1280px-Villa_General_Belgrano-2.JPG",
+          "credit": "Lcsrns · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Villa_General_Belgrano_main_street.jpg/1280px-Villa_General_Belgrano_main_street.jpg",
+          "credit": "Calella79 · CC0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "la-cumbrecita",
+      "cat": "sierras",
+      "name": "La Cumbrecita",
+      "lat": -31.9005,
+      "lon": -64.7729,
+      "text": {
+        "es": {
+          "short": "Pueblo peatonal de aire alemán, con bosques y cascadas",
+          "long": "Pueblo totalmente peatonal, poblado por inmigrantes de Europa central, rodeado de bosques, arroyos y senderos. Caminá hasta la cascada Almbach, cruzá los puentes y tomate un café con torta en una casa de té. Tip: dejá el auto en el ingreso y llevá calzado cómodo.",
+          "how": "2 h en auto: RP 5 hasta Villa Gral. Belgrano y 40 km más. Micro desde VGB."
+        },
+        "pt": {
+          "short": "Vila só para pedestres, com ar alemão, bosques e cachoeiras",
+          "long": "Vila totalmente para pedestres, povoada por imigrantes da Europa central, cercada de bosques, riachos e trilhas. Caminhe até a cachoeira Almbach, atravesse as pontes e tome um café com bolo numa casa de chá. Dica: deixe o carro na entrada e leve calçado confortável.",
+          "how": "2 h de carro: RP 5 até Villa Gral. Belgrano e mais 40 km. Ônibus de VGB."
+        },
+        "en": {
+          "short": "Car-free alpine-style village with forests and waterfalls",
+          "long": "A fully pedestrian village settled by Central European immigrants, ringed by forests, streams and trails. Walk to the Almbach waterfall, cross the little bridges and enjoy coffee and cake in a tea house. Tip: leave the car at the entrance and wear comfortable shoes.",
+          "how": "2 h by car: RP 5 to Villa Gral. Belgrano, then 40 km more. Bus from VGB."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/La_Cumbrecita_%2830558653046%29.jpg/1280px-La_Cumbrecita_%2830558653046%29.jpg",
+          "credit": "Rolf Dietrich Brecher from Germany · CC BY-SA 2.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/La_Cumbrecita_Arroyo.jpg/1280px-La_Cumbrecita_Arroyo.jpg",
+          "credit": "Fscotta · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/La_Cumbrecita_2008-10-11.jpg/1280px-La_Cumbrecita_2008-10-11.jpg",
+          "credit": "Roberto Ettore · Public domain"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "alta-gracia",
+      "cat": "sierras",
+      "name": "Alta Gracia",
+      "lat": -31.6577,
+      "lon": -64.435,
+      "text": {
+        "es": {
+          "short": "Estancia jesuítica Patrimonio UNESCO y casa del Che",
+          "long": "Ciudad serrana con la Estancia Jesuítica, parte de las Manzana y Estancias Jesuíticas de Córdoba, Patrimonio de la Humanidad. Visitá la iglesia y el museo, el Tajamar y el Museo Casa de Ernesto Che Guevara, donde vivió de joven. Tip: se recorre bien a pie desde el centro.",
+          "how": "45 min en auto por la RP 5. Micros frecuentes desde la Terminal."
+        },
+        "pt": {
+          "short": "Estância jesuítica Patrimônio UNESCO e casa do Che",
+          "long": "Cidade serrana com a Estância Jesuítica, parte do conjunto Quarteirão e Estâncias Jesuíticas de Córdoba, Patrimônio Mundial. Visite a igreja e o museu, o Tajamar e o Museu Casa de Ernesto Che Guevara, onde ele viveu na juventude. Dica: dá para fazer a pé a partir do centro.",
+          "how": "45 min de carro pela RP 5. Ônibus frequentes do Terminal."
+        },
+        "en": {
+          "short": "UNESCO Jesuit estancia and the Che Guevara house",
+          "long": "A hill town with the Jesuit Estancia, part of the Jesuit Block and Estancias of Córdoba World Heritage site. See the church and museum, the Tajamar reservoir and the Ernesto Che Guevara Museum House, where he lived as a youth. Tip: easy to explore on foot from the centre.",
+          "how": "45 min by car on RP 5. Frequent buses from the bus terminal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Estancia_Jesu%C3%ADtica_Alta_Gracia_2.JPG/1280px-Estancia_Jesu%C3%ADtica_Alta_Gracia_2.JPG",
+          "credit": "Silber98 · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Estancia_de_Alta_Gracia_%28127308417%29.jpg/1280px-Estancia_de_Alta_Gracia_%28127308417%29.jpg",
+          "credit": "Luis Pedro Montesano · CC BY 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Iglesia_Estancia_Jesu%C3%ADtica_Alta_Gracia_C%C3%B3rdoba.jpg/1280px-Iglesia_Estancia_Jesu%C3%ADtica_Alta_Gracia_C%C3%B3rdoba.jpg",
+          "credit": "Christian Córdova · CC BY 2.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "cosquin",
+      "cat": "sierras",
+      "name": "Cosquín",
+      "lat": -31.2437,
+      "lon": -64.4657,
+      "text": {
+        "es": {
+          "short": "Capital del folklore, río y cerros del valle de Punilla",
+          "long": "Sede del Festival Nacional del Folklore, el más importante del país, que se hace en la plaza Próspero Molina a fines de enero. Caminá la plaza y la costanera del río Cosquín, refrescate en el balneario La Toma y subí al Monte Pan de Azúcar. Tip: fuera de enero es mucho más tranquilo.",
+          "how": "1 h en auto por la RN 38. Micros desde la Terminal de Córdoba."
+        },
+        "pt": {
+          "short": "Capital do folclore, rio e morros do vale de Punilla",
+          "long": "Sede do Festival Nacional do Folclore, o mais importante da Argentina, na praça Próspero Molina no fim de janeiro. Passeie pela praça e pela orla do rio Cosquín, refresque-se no balneário La Toma e suba ao Monte Pan de Azúcar. Dica: fora de janeiro é bem mais tranquilo.",
+          "how": "1 h de carro pela RN 38. Ônibus do Terminal de Córdoba."
+        },
+        "en": {
+          "short": "Folk-music capital with river and hills in Punilla valley",
+          "long": "Home of the National Folklore Festival, Argentina's biggest folk-music event, held in Próspero Molina square in late January. Stroll the square and the Cosquín river banks, cool off at La Toma and head up Monte Pan de Azúcar. Tip: outside January it is far calmer.",
+          "how": "1 h by car on RN 38. Buses from Córdoba bus terminal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/BalnearioLaToma-Cosquin.jpg/1280px-BalnearioLaToma-Cosquin.jpg",
+          "credit": "Ezarate · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/R%C3%ADo_Cosqu%C3%ADn.jpg/1280px-R%C3%ADo_Cosqu%C3%ADn.jpg",
+          "credit": "CyberPen · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/AuditoriodeCosquin.JPG/1280px-AuditoriodeCosquin.JPG",
+          "credit": "Jofrigerio · CC BY-SA 4.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "los-gigantes",
+      "cat": "sierras",
+      "name": "Los Gigantes",
+      "lat": -31.4197,
+      "lon": -64.8053,
+      "text": {
+        "es": {
+          "short": "Macizo de granito para trekking, ríos y cóndores",
+          "long": "Macizo montañoso en el extremo norte de la Pampa de Achala, con paredones de roca, cuevas y el Valle de los Lisos. Es destino de senderismo y escalada, con cóndores y flora de altura. Tip: es zona de montaña con clima cambiante; llevá abrigo, agua y pensá en ir con un guía o excursión.",
+          "how": "2 h en auto por Carlos Paz, Tanti y la RP 28. Sin micro al pie del cerro."
+        },
+        "pt": {
+          "short": "Maciço de granito para trilhas, rios e condores",
+          "long": "Maciço montanhoso no extremo norte da Pampa de Achala, com paredões de rocha, cavernas e o Vale de los Lisos. Destino de trilhas e escalada, com condores e flora de altitude. Dica: é montanha com clima instável; leve agasalho, água e considere ir com guia ou excursão.",
+          "how": "2 h de carro por Carlos Paz, Tanti e RP 28. Sem ônibus até a base."
+        },
+        "en": {
+          "short": "Granite massif for trekking, rivers and condors",
+          "long": "A mountain massif at the northern end of the Pampa de Achala, with rock walls, caves and the Valle de los Lisos. A hiking and climbing spot with condors and high-altitude flora. Tip: weather changes fast; bring a jacket and water and consider a guide or tour.",
+          "how": "2 h by car via Carlos Paz, Tanti and RP 28. No bus to the base."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/LosGigantes.jpg/1280px-LosGigantes.jpg",
+          "credit": "Adrián Alberto Ruiz · CC BY 2.5"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Los_Gigantes.Valle_de_Los_Lisos_-.jpg/1280px-Los_Gigantes.Valle_de_Los_Lisos_-.jpg",
+          "credit": "Aiken Mario seguel · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Rio_Yuspe_en_Los_Gigantes.JPG/1280px-Rio_Yuspe_en_Los_Gigantes.JPG",
+          "credit": "Arianza1 · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "la-falda",
+      "cat": "sierras",
+      "name": "La Falda",
+      "lat": -31.0946,
+      "lon": -64.4829,
+      "text": {
+        "es": {
+          "short": "Hotel Edén histórico, cerros y diques en Punilla",
+          "long": "Ciudad serrana al pie de los cerros La Banderita y El Cuadrado, nacida alrededor del histórico Hotel Edén, que alojó a personalidades de todo el mundo. Visitá el Edén, subí a algún mirador y acercate a las cascadas y al dique de La Falda. Tip: sumala a un recorrido por Punilla con Cosquín y Capilla del Monte.",
+          "how": "1 h 10 en auto por la RN 38. Micros desde la Terminal de Córdoba."
+        },
+        "pt": {
+          "short": "Histórico Hotel Edén, morros e represas em Punilla",
+          "long": "Cidade serrana ao pé dos morros La Banderita e El Cuadrado, nascida em torno do histórico Hotel Edén, que hospedou personalidades do mundo todo. Visite o Edén, suba a algum mirante e vá às cachoeiras e à represa de La Falda. Dica: inclua num roteiro por Punilla com Cosquín e Capilla del Monte.",
+          "how": "1 h 10 de carro pela RN 38. Ônibus do Terminal de Córdoba."
+        },
+        "en": {
+          "short": "Historic Edén Hotel, hills and reservoirs in Punilla",
+          "long": "A hill town at the foot of Cerro La Banderita and Cerro El Cuadrado, born around the historic Edén Hotel, which hosted famous guests from around the world. Visit the Edén, climb to a viewpoint and head for the La Falda falls and dam. Tip: pair it with Cosquín and Capilla del Monte on a Punilla tour.",
+          "how": "1 h 10 by car on RN 38. Buses from Córdoba bus terminal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Dique_La_Falda_7_Cascadas.jpg/1280px-Dique_La_Falda_7_Cascadas.jpg",
+          "credit": "Roberto Fiadone · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/La_Falda_Vista_desde_cerro_La_Banderita.jpg/1280px-La_Falda_Vista_desde_cerro_La_Banderita.jpg",
+          "credit": "Roberto Fiadone · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/La_Falda%2C_C%C3%B3rdoba.JPG/1280px-La_Falda%2C_C%C3%B3rdoba.JPG",
+          "credit": "Federico Gomez Aghetta · CC0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "capilla-del-monte",
+      "cat": "sierras",
+      "name": "Capilla del Monte",
+      "lat": -30.8572,
+      "lon": -64.5263,
+      "text": {
+        "es": {
+          "short": "Al pie del Cerro Uritorco, entre sierras y misterio",
+          "long": "Pueblo al pie del Cerro Uritorco, el más famoso de las Sierras Chicas, con paisajes de formaciones rocosas como El Zapato, ríos y balnearios. Podés caminar hacia los miradores del Uritorco o recorrer el pueblo. Tip: es un día largo desde Córdoba; si vas a subir, salí muy temprano y llevá agua.",
+          "how": "1 h 45 en auto por la RN 38. Hay micros desde la Terminal de Córdoba."
+        },
+        "pt": {
+          "short": "Ao pé do Cerro Uritorco, entre serras e mistério",
+          "long": "Vila ao pé do Cerro Uritorco, o mais famoso do vale, com formações rochosas como El Zapato, rios e balneários. Dá para subir aos mirantes do Uritorco ou passear pelo centro. Dica: é um dia longo desde Córdoba; se for subir, saia bem cedo e leve água.",
+          "how": "1 h 45 de carro pela RN 38. Há ônibus do Terminal de Córdoba."
+        },
+        "en": {
+          "short": "At the foot of Cerro Uritorco, among hills and mystery",
+          "long": "A town at the foot of Cerro Uritorco, with rock formations like El Zapato, rivers and swimming spots. You can hike toward the Uritorco viewpoints or just wander the town. Tip: it is a long day from Córdoba; if you plan to climb, leave very early and carry water.",
+          "how": "1 h 45 by car on RN 38. Buses run from Córdoba bus terminal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cerro_Uritorco.jpg/1280px-Cerro_Uritorco.jpg",
+          "credit": "Virtualfueguina · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cerro_Uritorco-octavo_mirador.jpg/1280px-Cerro_Uritorco-octavo_mirador.jpg",
+          "credit": "Ezarate · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Capilla_del_Monte%2C_C%C3%B3rdoba%2C_Argentina.jpg/1280px-Capilla_del_Monte%2C_C%C3%B3rdoba%2C_Argentina.jpg",
+          "credit": "Juan Montiel · CC BY 2.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "jesus-maria",
+      "cat": "sierras",
+      "name": "Jesús María",
+      "lat": -30.9764,
+      "lon": -64.0957,
+      "text": {
+        "es": {
+          "short": "Estancia jesuítica UNESCO y capital de la doma y el folklore",
+          "long": "Pueblo del norte cordobés con la Estancia Jesuítica de Jesús María, Patrimonio de la Humanidad, con su museo, iglesia, bodega y patios. En enero se hace el Festival Nacional de Doma y Folklore. Tip: combinala con Colonia Caroya, vecina y de tradición italiana, para probar salames y vinos.",
+          "how": "50 min en auto por la RN 9 norte. Micros desde la Terminal de Córdoba."
+        },
+        "pt": {
+          "short": "Estância jesuítica UNESCO e capital da doma e do folclore",
+          "long": "Cidade do norte de Córdoba com a Estância Jesuítica de Jesús María, Patrimônio Mundial, com museu, igreja, adega e pátios. Em janeiro acontece o Festival Nacional de Doma e Folclore. Dica: combine com Colonia Caroya, vizinha de tradição italiana, para provar salames e vinhos.",
+          "how": "50 min de carro pela RN 9 norte. Ônibus do Terminal de Córdoba."
+        },
+        "en": {
+          "short": "UNESCO Jesuit estancia and home of the rodeo festival",
+          "long": "A town in northern Córdoba with the Jesuit Estancia of Jesús María, a World Heritage site, with its museum, church, winery and courtyards. In January it hosts the national rodeo and folklore festival. Tip: pair it with neighbouring Colonia Caroya, of Italian heritage, for cured meats and wine.",
+          "how": "50 min by car on RN 9 north. Buses from Córdoba bus terminal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Estancia_Jes%C3%BAs_Mar%C3%ADa.JPG/1280px-Estancia_Jes%C3%BAs_Mar%C3%ADa.JPG",
+          "credit": "Charliemoon ar · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Estancia_Jesus_Maria_vista_desde_el_camino_real.JPG/1280px-Estancia_Jesus_Maria_vista_desde_el_camino_real.JPG",
+          "credit": "Tomasmalvasio · CC BY-SA 3.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Parque_de_la_Estancia_Jesus_Maria.JPG/1280px-Parque_de_la_Estancia_Jesus_Maria.JPG",
+          "credit": "Tomasmalvasio · CC BY-SA 3.0"
+        }
+      ],
+      "oculto": false
+    },
+    {
+      "id": "mina-clavero",
+      "cat": "sierras",
+      "name": "Mina Clavero",
+      "lat": -31.7209,
+      "lon": -65.0039,
+      "text": {
+        "es": {
+          "short": "Ríos cristalinos de Traslasierra tras las Altas Cumbres",
+          "long": "Villa turística de Traslasierra, del otro lado de las sierras, famosa por el río Mina Clavero y balnearios como Nido del Águila. El camino de las Altas Cumbres ya es parte del paseo, con vistas de montaña. Tip: es un día largo; en verano el río es el gran plan.",
+          "how": "2 h 15 en auto por la RN 20 (Altas Cumbres). Hay micros desde la Terminal."
+        },
+        "pt": {
+          "short": "Rios cristalinos de Traslasierra após as Altas Cumbres",
+          "long": "Cidade turística de Traslasierra, do outro lado das serras, famosa pelo rio Mina Clavero e balneários como Nido del Águila. A estrada das Altas Cumbres já faz parte do passeio, com vistas de montanha. Dica: é um dia longo; no verão o rio é o grande programa.",
+          "how": "2 h 15 de carro pela RN 20 (Altas Cumbres). Há ônibus do Terminal."
+        },
+        "en": {
+          "short": "Clear Traslasierra rivers beyond the Altas Cumbres",
+          "long": "A resort town in Traslasierra, on the far side of the sierras, known for the Mina Clavero river and swimming spots like Nido del Águila. The Altas Cumbres mountain road is part of the ride, with big views. Tip: it makes for a long day; in summer the river is the main draw.",
+          "how": "2 h 15 by car on RN 20 (Altas Cumbres). Buses run from the terminal."
+        }
+      },
+      "photos": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nido-de-Aguila_Mina_Clavero.jpg/1280px-Nido-de-Aguila_Mina_Clavero.jpg",
+          "credit": "Luca Ezequiel Rodríguez · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mina_Clavero%2C_Vila_y_San_Mart%C3%ADn.jpg/1280px-Mina_Clavero%2C_Vila_y_San_Mart%C3%ADn.jpg",
+          "credit": "Roberto Fiadone · CC BY-SA 4.0"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/R%C3%ADo_Mina_Clavero_desde_puente_colgante_2022.jpg/1280px-R%C3%ADo_Mina_Clavero_desde_puente_colgante_2022.jpg",
+          "credit": "Roberto Fiadone · CC BY-SA 4.0"
+        }
+      ],
+      "oculto": false
+    }
+  ]
+}
